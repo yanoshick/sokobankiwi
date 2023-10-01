@@ -1,0 +1,17 @@
+# IntelliJ
+/.idea/
+
+# virtual interpreter
+/venv/
+
+# pytest cache
+/.pytest_cache/
+/__pycache__/
+__pycache__
+
+# test results
+/results/*
+!/results/README.md
+Results.tar
+actualresult.txt
+
